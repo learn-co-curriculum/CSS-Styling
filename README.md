@@ -23,3 +23,5 @@ In this code along exercise we will be adding style to our pages by linking an e
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling'>CSS Styling Code-Along</a> on Learn.co and start learning to code for free.</p>
